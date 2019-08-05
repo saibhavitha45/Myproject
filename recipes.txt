@@ -4,3 +4,5 @@ upma
 dosa
 chapathi
 pasta
+
+chicken fry
